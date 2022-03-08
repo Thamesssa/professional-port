@@ -1,7 +1,7 @@
 {
-  "name": "my-portfolio",
+  "name": "thamsanqa-shabangu-portfolio",
   "version": "1.0.0",
-  "description": "Portfolio Guided project ",
+  "description": "professional porrtfolio guided project ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Thamesssa/professional-port/issues"
   },
-  "homepage": "https://github.com/Thamesssa/professional-port#readme"
+  "homepage": "https://github.com/Thamesssa/professional-port#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
 }
